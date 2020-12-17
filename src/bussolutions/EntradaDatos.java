@@ -1,9 +1,7 @@
 /*
 Universidad fidélitas
-Cristopher Navarro Guevara
 Introducción a la programación
 BusSolutions main
-11/11/2020
  */
 package bussolutions;
 
