@@ -1,6 +1,5 @@
 /*
 Universidad fidélitas
-Cristopher Navarro Guevara
 Introducción a la programación
 BusSolutions main
 
