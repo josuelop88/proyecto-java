@@ -2,7 +2,6 @@
 Universidad fidélitas
 Introducción a la programación
 BusSolutions main
-11/11/2020
  */
 package bussolutions;
 
